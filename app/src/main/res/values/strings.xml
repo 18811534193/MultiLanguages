@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoreLanguageStudy</string>
+    <string name="title">你好</string>
+
+    <!--语言选择类型-->
+    <string name="Chinese">中文</string>
+    <string name="English">英文</string>
+    <string name="Indic">印文</string>
+</resources>

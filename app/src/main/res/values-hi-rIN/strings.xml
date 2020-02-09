@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoreLanguageStudy</string>
+    <string name="title">印文你好</string>
+
+    <!--语言选择类型-->
+    <string name="Chinese">印度中文</string>
+    <string name="English">印度英文</string>
+    <string name="Indic">印文</string>
+</resources>

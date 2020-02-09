@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoreLanguageStudy</string>
+    <string name="title">Hello</string>
+
+    <!--语言选择类型-->
+    <string name="Chinese">Chinese</string>
+    <string name="English">English</string>
+    <string name="Indic">Indic</string>
+</resources>
